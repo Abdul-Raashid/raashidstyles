@@ -1,5 +1,5 @@
 # raashidstyles
-## FutureReadyTalent project : 
+## FutureReadyTalent project : raashidstyles
 ### Home page
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/101323777/184468705-30aee245-d0b4-4f10-9009-bee551b62d24.png">
 
